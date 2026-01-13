@@ -1,0 +1,6 @@
+---
+description: When you try to run npm run dev or npm run build
+alwaysApply: false
+---
+1. Never call `npm run build`
+2. Do not call `npm run dev` if a server is already running.

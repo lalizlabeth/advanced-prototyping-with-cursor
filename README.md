@@ -1,6 +1,6 @@
-# Vibe Coding with APIs
+# Advanced Prototyping with Cursor
 
-This is your workspace for the "Vibe Coding with APIs" workshop. Here you can create and organize all your interaction design prototypes using Next.js.
+This is your workspace for the "Advanced Prototyping with Cursor" workshop. Here you can create and organize all your interaction design prototypes using Next.js.
 
 ## Getting started
 
