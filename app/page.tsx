@@ -26,7 +26,7 @@ export default function Home() {
   return (
     <div className={`${styles.container} ${ibmPlexMono.className}`}>
       <header className={styles.header}>
-        <h1 className={bricolageGrotesque.className}>Vibe Coding with APIs</h1>
+        <h1 className={bricolageGrotesque.className}>Advanced Prototyping with Cursor</h1>
       </header>
 
       <main>
