@@ -22,7 +22,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AdvancedPrototyping with Cursor",
+  title: "Advanced Prototyping with Cursor",
   description: "The home for all my prototypes",
   icons: {
     icon: [
